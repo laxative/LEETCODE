@@ -1,0 +1,15 @@
+{
+  "name": "q1-twosum",
+  "version": "1.0.0",
+  "description": "a practice of leetcode question 1 - two sum",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "laxative",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
