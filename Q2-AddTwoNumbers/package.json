@@ -1,0 +1,20 @@
+{
+  "name": "q2-addtwonumbers",
+  "version": "1.0.0",
+  "description": "leetcode question 2",
+  "main": "addTwoNumbers.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "laxative <laxative0612@gmail.com>",
+  "license": "ISC"
+}
