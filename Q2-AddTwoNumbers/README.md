@@ -21,3 +21,7 @@ npm test
 ```
 
 ### score
+
+|Status|Runtime|Memory|Language|
+|------|-------|------|--------|
+|accepted|132ms|44.2MB|javascript|
