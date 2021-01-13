@@ -1,0 +1,15 @@
+{
+  "name": "q3-lengthoflongestsubstring",
+  "version": "1.0.0",
+  "description": "leetcode question 3 practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Yao-Hsien Hsieh <laxative0612@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
