@@ -17,4 +17,8 @@ describe('LengthOfLongestSubstring function test', () => {
   it('leetcode example 4 test', () => {
     expect(LengthOfLongestSubstring('')).to.be.equal(0);
   })
+
+  it('leetcode example 5 test', () => {
+    expect(LengthOfLongestSubstring('au')).to.be.equal(2);
+  })
 })
