@@ -19,3 +19,9 @@ npm install
 ```bash
 npm test
 ```
+
+### Score
+
+|Status|Runtime|Memory|Language|
+|------|-------|------|--------|
+|accepted|108ms|45.1MB|javascript|
