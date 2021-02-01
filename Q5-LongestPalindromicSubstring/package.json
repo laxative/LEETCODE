@@ -1,0 +1,15 @@
+{
+  "name": "q5-longestpalindromicsubstring",
+  "version": "1.0.0",
+  "description": "leetcode question 5 practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "laxative <laxative0612@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
