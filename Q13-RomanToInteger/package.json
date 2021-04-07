@@ -1,0 +1,15 @@
+{
+  "name": "q13-romantointeger",
+  "version": "1.0.0",
+  "description": "leet code question 13 practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "laxative <laxative0612@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
